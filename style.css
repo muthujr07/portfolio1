@@ -1,0 +1,15 @@
+#logo1{
+    height: 30px;
+}
+.navbar-nav{
+    margin-left: 200px; 
+}
+.btn-contact{
+justify-content: end;
+border-color:blue ;
+height: 35px;
+width: 100px;
+border-radius: 5px;
+}
+
+    
